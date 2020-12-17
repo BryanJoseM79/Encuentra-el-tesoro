@@ -2,4 +2,10 @@
 const WIDTH = 400;
 const HEIGH = 400;
 
-// Generamos la operacion aletoria la cual nos generará el tesoro de una forma random
+// Generamos el mapa del tesoro
+let MapaDelTesoro = {
+    x: ObtenerNumeroAletorio(WIDTH),
+    y: ObtenerNumeroAletorio(HEIGH)
+}
+console.log()
+
