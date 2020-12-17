@@ -1,0 +1,1 @@
+// Acá creamos todas las funciones que posteriormente vamos a reutilizar en el programa 

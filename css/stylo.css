@@ -1,0 +1,11 @@
+body{
+    background-color: #34495e; /* Fondo de la pagina web */
+    color: white; /* Color de las letras dentro del body */
+    height: 100vh; /* Utilizamos esta clase para utilizar el 100% del alto de un dispositivo (Pantalla)*/
+    display: flex; /* Utilizamos esta clase para poder centrar un contenido */
+    justify-content: center; /* Centramos el contenido de la pagina */
+    align-items: center; /* Dejamos el contenido a la mitad del sitio Web" */
+    flex-direction: column; /* Usamos esto para separar la imagen del texto, y que se ponga en la parte superior */
+    padding: 0px; /* Quitamos el padding del sitio web */
+    margin: 0px; /* Quitamos el margin de la pagina */
+}
